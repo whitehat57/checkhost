@@ -1,6 +1,6 @@
 # checkhost
 checkhost mandiri
-cara setup
+- cara setup
 ```
 pip install requirements.txt
 python3 checkhost.py
